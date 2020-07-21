@@ -1,0 +1,19 @@
+xzz1. Ssh raspberrypi.local -l pi (raspberry)
+2. Su (password)
+3.ls
+4.python Flame_Sensor_Publish.py
+————————————————————————————————
+1. Ssh raspberrypi.local -l pi (raspberry)I
+2. Su (bulpi)
+3.ls
+4.python Flame_Sensor_Publish.py
+
+—————————————————————
+How to use vi editor
+
+Esc x to delete a character
+Esc I to insert character 
+Esc dd to delete line
+Esc :wq to save changes and quit file
+
+Esc :q! To quit the file without saving
